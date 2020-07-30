@@ -18,8 +18,9 @@ division(5,4)
 
 
 def multiplication(num1, num2)
-
+  multiply = num1 * num2 
 end
+multiplication(5,4) 
 
 def modulo(num1, num2)
 
