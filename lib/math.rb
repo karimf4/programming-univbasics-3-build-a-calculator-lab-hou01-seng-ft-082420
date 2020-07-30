@@ -12,8 +12,10 @@ end
 subtraction(5,4) 
 
 def division(num1, num2)
-
+  puts divide = num1/num2 
 end
+division(5,4)
+
 
 def multiplication(num1, num2)
 
