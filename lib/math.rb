@@ -25,7 +25,7 @@ multiplication(4,30)
 def modulo(num1, num2)
   puts mod = num1/num2
 end
-modulo(5,4)
+modulo(34,5)
 
 def square_root(num)
   puts Math.sqrt(num)
