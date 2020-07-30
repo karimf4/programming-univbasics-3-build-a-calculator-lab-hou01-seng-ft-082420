@@ -1,11 +1,10 @@
-num1 == 5 
-num2 == 4
+
 
 
 def addition(num1, num2)
   puts add = num1 + num2 
 end
-add 
+addition(5,4) 
 
 def subtraction(num1, num2)
 
