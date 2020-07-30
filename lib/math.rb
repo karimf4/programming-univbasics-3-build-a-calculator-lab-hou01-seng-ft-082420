@@ -20,7 +20,7 @@ division(50,2)
 def multiplication(num1, num2)
   puts multiply = (num1 * num2)  
 end
-multiplication(5,4) 
+multiplication(4,30) 
 
 def modulo(num1, num2)
   puts mod = num1/num2
