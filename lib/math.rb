@@ -23,6 +23,7 @@ end
 multiplication(5,4) 
 
 def modulo(num1, num2)
+  puts mod = 
 
 end
 
